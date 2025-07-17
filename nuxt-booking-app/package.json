@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-booking-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.11.1",
+    "fullcalendar": "^6.1.11",
+    "nuxt": "^3.10.0",
+    "pinia": "^3.0.3",
+    "vue": "^3.4.0",
+    "vuetify": "^3.5.0"
+  }
+}
