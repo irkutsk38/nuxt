@@ -1,1 +1,0 @@
-export { default } from "file:///C:/Users/admin/Downloads/nuxt-booking-app/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
